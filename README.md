@@ -67,7 +67,3 @@ This project highlights the importance of **data visualization in supporting str
 ## Author
 
 Sangeet Gautam
-
----
-
-If you want, I can also give you **a much stronger README that looks like a real Data Analyst portfolio project (the type recruiters notice immediately)**.
