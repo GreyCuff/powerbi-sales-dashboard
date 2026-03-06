@@ -45,13 +45,13 @@ These insights enable businesses to evaluate performance and identify areas for 
 
 
 ```
-Background Image.png
+!dashboard-preview.png
 ```
 
 Example:
 
 ```
-![Dashboard Preview](Background%20Image.png)
+![Dashboard Preview](dashboard-preview.png)
 ```
 
 ---
