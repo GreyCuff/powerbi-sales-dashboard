@@ -40,22 +40,6 @@ These insights enable businesses to evaluate performance and identify areas for 
 
 ---
 
-## Dashboard Preview
-
-
-
-```
-!dashboard-preview.png
-```
-
-Example:
-
-```
-![Dashboard Preview](dashboard-preview.png)
-```
-
----
-
 ## Project Structure
 
 ```
